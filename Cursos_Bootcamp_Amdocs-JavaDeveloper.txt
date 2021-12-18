@@ -1,0 +1,37 @@
+Boas-vindas ao Bootcamp Amdocs JAVA Developer							1h Básico
+Bem-vindo à DIO											1h Básico
+Mentoria #1: Aula Inaugural - Bootcamp Amdocs							2h Mentoria
+Lógica de Programação Essencial									4h Básico
+Aprenda o que são Estrutura de Dados e Algoritmos						2h Intermediário
+Introdução ao Git e ao GitHub									5h Básico
+Projetos ágeis com SCRUM									2h Básico
+Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso			1h Projeto
+Mentoria #2: Como ser o próximo contratado da Amdocs						2h Mentoria
+Linux: Introdução ao Sistema Operacional e Terminal						2h Básico
+Linux: Diretórios e Comandos Essenciais								2h Básico
+Linux: Fundamentos de Redes e Comandos Avançados						2h Intermediário
+Linux: Gerenciamento de Pacotes									2h Intermediário
+Dominando IDEs Java										4h Básico
+Introdução ao Ecossistema e Documentação Java							2h Básico
+Configurando Ambiente de Desenvolvimento Java no Linux						1h Básico
+Estruturas de Repetição e Arrays em Java							3h Básico
+Reforçando o Conceito de Laços em Java								1h Básico
+Introdução a orientação a objetos com Java							2h Intermediário
+Implementando Collections e Streams com Java							6h Intermediário
+Entrada e Saída de Arquivos (I/O) em Java							4h Intermediário
+Mentoria #3: Como resolver os desafios de código						2h Mentoria
+Resolvendo Desafios de Código em Java								1h Básico
+Desafio Java - Bootcamp Amdocs									1h Básico
+Criando um Banco Digital com Java e Orientação a Objetos					1h Intermediário
+SQL SERVER - Criando suas primeiras consultas							4h Básico
+Modelando um banco de dados na prática com SQL SERVER						2h Básico
+SQL Server: Boas práticas em bancos relacionais							2h Básico
+Introdução a APIs e métodos HTTP								2h Básico
+Introdução ao framework Spring Boot								2h Intermediário
+Simplificando Projetos Java com o Spring Boot							3h Básico
+Introdução aos Conceitos de API e Clean Architecture						4h Avançado
+Mentoria #4: Utilizando Cucumber para testes automatizados com Java				2h Mentoria
+Mentoria #5: CI / CD (Integração Contínua e Implantação Contínua)				2h Mentoria
+Desafio Java - Bootcamp Amdocs 2								1h Básico
+Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot		6h Intermediário
+Mentoria #6: O que você precisa saber para se tornar um desenvolvedor de sucesso na Amdocs 	2h Mentoria
